@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "890458328922",
+    "firebase_url": "https://happyou-littt.firebaseio.com",
+    "project_id": "happyou-littt",
+    "storage_bucket": "happyou-littt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890458328922:android:1999a70c7ed2f478",
+        "android_client_info": {
+          "package_name": "android.tt.com.happyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890458328922-ohsh3hrgg9llih1fcbsf2r2qm3lg7tkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIXtS9qayWh1AWbUnekCtpD-AMODDIJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890458328922:android:f6ca502bf89b7cee",
+        "android_client_info": {
+          "package_name": "com.tt.com.happyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890458328922-ohsh3hrgg9llih1fcbsf2r2qm3lg7tkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIXtS9qayWh1AWbUnekCtpD-AMODDIJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890458328922:android:c415261a61f16c0c",
+        "android_client_info": {
+          "package_name": "com.tt.happyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890458328922-ohsh3hrgg9llih1fcbsf2r2qm3lg7tkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIXtS9qayWh1AWbUnekCtpD-AMODDIJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

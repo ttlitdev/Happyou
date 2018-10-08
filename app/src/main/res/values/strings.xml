@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Happyou</string>
+    <string name="kaijyou_select">会場選択</string>
+
+    <string name="view_select">画面選択</string>
+    <string name="log_view">ログ</string>
+    <string name="message_view">メッセージ</string>
+    <string name="timekeep_view">タイムキープ</string>
+
+    <string name="tab_item_room_all">全部</string>
+    <string name="tab_item_room_a">A会場</string>
+    <string name="tab_item_room_b">B会場</string>
+</resources>
